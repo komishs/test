@@ -1,0 +1,1 @@
+print('new file : c.py - from git_office')
